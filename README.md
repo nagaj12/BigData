@@ -1,7 +1,7 @@
 # BigData
 Big Data Sample programs:
 
-There are 2 programs in the AurumDS.zip file
+There are 2 programs and 3 input files in the AurumDS.zip file
   1. AurumDS_PySparkDF_Appl.ipynb 
      Program to analyse stock sales data from year 2012 - 2016 using Python/PySpark 
      SQL queries. Input data file stock_sales.csv is embedded in the ZIP file itself.
@@ -13,3 +13,8 @@ There are 2 programs in the AurumDS.zip file
      After filtering unwanted columns and null values NY_Vehicle_CollisionData_Final 
      will be automatically generated. NY_Vehicle_CollisionData_Final.csv also availble
      in the ZIP file.
+     
+ 3.  Input files:
+     stock_sales.csv
+     NY_Vehicle_CollisionData.csv
+     NY_Vehicle_CollisionData_Final.csv
